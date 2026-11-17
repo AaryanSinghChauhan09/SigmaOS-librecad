@@ -3,7 +3,7 @@ name = "SigmaOS-librecad"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "librecad component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
